@@ -5,8 +5,8 @@
 ║ 🛠️ Informasi Script
 ╠═════════════════════════════════╣
 ║ 📦 Version    : 4.0.5
-║ 👨‍💻 Developer : Azhari Creative
-║ 🌐 Website    : autoresbot.com
+║ 👨‍💻 Developer : IKYY-STORE
+║ 🌐 Website:https://linktr.ee/kyy_store5 
 ╚═════════════════════════════════╝
 ```
 
@@ -14,7 +14,7 @@
 ⚠️ Peringatan:
 SCRIPT INI TIDAK BOLEH DIPERJUALBELIKAN.
 📌 Pembelian resmi hanya dapat dilakukan di website resmi
-[👉 autoresbot.com](https://autoresbot.com)
+[👉 [autoresbot.com](https://linktr.ee/kyy_store5)]
 ```
 
 # API USE from api.autoresbot.com
